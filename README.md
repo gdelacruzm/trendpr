@@ -1,2 +1,2 @@
 # trendpr
- precipitation trends
+Trends of annual precipitation for Peru (SENAMHI, 2020)
